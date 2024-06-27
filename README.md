@@ -26,28 +26,28 @@
         <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"
                 alt="java"
-                width="80"
-                height="80"
+                width="50"
+                height="50"
         />
     </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
         <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
                 alt="linux"
-                width="80"
-                height="80"
+                width="50"
+                height="50"
         />
     </a>
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img
                 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
                 alt="python"
-                width="80"
-                height="80"
+                width="50"
+                height="50"
         />
     </a>
     <a href="https://spring.io/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="80" height="80" />
+        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50" />
     </a>
 
   <a href="https://www.learn-c.org/" target="_blank" rel="noreferrer">
