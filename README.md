@@ -1,4 +1,3 @@
-[![](https://visitcount.itsvg.in/api?id=jeffdevx&icon=0&color=0)](https://visitcount.itsvg.in)
 # <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> <b>Hi, I'm Oscar Chen<sub style="font-size: 15px; font-style: italic"> - a CS student at UChicago.</sub><br>
 
 
@@ -9,6 +8,8 @@
 <tr border="none">
 <td width="100% align="left">
 
+<div style="font-size: 3.0em;">
+
 - 🔭 I’m currently working on `blockchain` development @ [ASTRI](https://www.astri.org/)
 - 🌱 I’m currently learning `solidity` and `C`.
 - 👯 I’m looking to expand my network and find Summer 2025 opportunities in AI and security.
@@ -16,7 +17,7 @@
 - 👨🏻‍💻 My related coursework includes: `Intro CS`, `Multivariable Calculus`, `Honors Calculus`, `Linear Algebra`
 - 💬 Ping me about **AI**, **Hackathons**, **Computer Science Research**.
 
-<br>
+</div>
 
 ## <img src="https://media.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="50px" height="50px"></img> Languages and Tools
 
@@ -56,7 +57,7 @@
 
 <br>
 
-### ( ◡̀_◡́)ᕤ What I've Been Working On :
+### ( ◡̀_◡́)ᕤ    What I've Been Working On :
   
 <a href="https://github.com/Oscar11800/Fast-Additive-Homomorphic-Encryption">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Oscar11800&repo=Fast-Additive-Homomorphic-Encryption"&theme=tokyonight" />
@@ -98,7 +99,7 @@
   
 <br>
   
-# 📫 Contact Me
+## 📫 Contact Me
 <a href="https://www.linkedin.com/in/chen-oscar/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="LinkedIn" style="width: 150px; height: 40px;"/>
 </a>
@@ -108,7 +109,7 @@
 
 ---
 
-## If you want to chat, don't hesitate to get in touch!
+### If you want to chat, don't hesitate to get in touch!
 
 
 
