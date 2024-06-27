@@ -51,7 +51,7 @@
     </a>
 
   <a href="https://www.learn-c.org/" target="_blank" rel="noreferrer">
-        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFnxnI3Yx177kIdAtiukh8gJ9vtZ1QjZ01Dg&s" alt="C" width="80" height="80" />
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFnxnI3Yx177kIdAtiukh8gJ9vtZ1QjZ01Dg&s" alt="C" width="50" height="50" />
     </a>
 </p>
 
