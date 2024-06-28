@@ -71,7 +71,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Oscar11800&repo=mc-trading-project-2024"&theme=merko" />
 </a>
 
-<a href="https://github.com/Oscar11800/mc-trading-project-2024">
+<a href="https://github.com/Oscar11800/mbtimystery">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=johnz4021&repo=mbtimystery"&theme=dark" />
 </a>
 
