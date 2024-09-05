@@ -14,7 +14,7 @@
 - 🌱 I’m currently interested learning about system architecture in `C`.
 - 👯 I’m looking to expand my network and find Summer 2025 opportunities in software engineering.
 - 🤔 I’m looking to work on my personal projects with ray tracing with `C++` and am open to opensource projects!
-- 👨🏻‍💻 My related coursework includes: `Intro CS`, `Multivariable Calculus`, `Honors Calculus`, `Linear Algebra`, `Systems Programming`
+- 👨🏻‍💻 My related coursework includes: `Intro CS`, `Multivariable Calculus`, `Honors Calculus`, `Linear Algebra`, `Systems Programming`, `Numerical Linear Algebra`, `Real Analysis`
 - 💬 Ping me about **AI**, **Hackathons**, **Computer Science Research**, **Software Engineering**.
 
 </div>
