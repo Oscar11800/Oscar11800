@@ -15,7 +15,7 @@
 - 👯 I’m looking to expand my network and find Summer 2025 opportunities in software engineering.
 - 🤔 I’m looking to work on my personal projects with ray tracing with `C++` and am open to opensource projects!
 - 👨🏻‍💻 My related coursework includes: `Intro CS`, `Multivariable Calculus`, `Honors Calculus`, `Linear Algebra`, `Systems Programming`
-- 💬 Ping me about **AI**, **Hackathons**, **Computer Science Research**, **Software Engineerng**.
+- 💬 Ping me about **AI**, **Hackathons**, **Computer Science Research**, **Software Engineering**.
 
 </div>
 
