@@ -10,12 +10,12 @@
 
 <div style="font-size: 3.0em;">
 
-- 🔭 I’m currently working on `blockchain` development @ [ASTRI](https://www.astri.org/)
-- 🌱 I’m currently learning `solidity` and `C`.
-- 👯 I’m looking to expand my network and find Summer 2025 opportunities in AI and security.
-- 🤔 I’m looking to work on my personal projects.
-- 👨🏻‍💻 My related coursework includes: `Intro CS`, `Multivariable Calculus`, `Honors Calculus`, `Linear Algebra`
-- 💬 Ping me about **AI**, **Hackathons**, **Computer Science Research**.
+- 🔭 My latest professional experience involved `blockchain`, `CUDA`, and `cryptography` projects @ [ASTRI](https://www.astri.org/) (check out myh FAHE repo for more)
+- 🌱 I’m currently interested learning about system architecture in `C`.
+- 👯 I’m looking to expand my network and find Summer 2025 opportunities in software engineering.
+- 🤔 I’m looking to work on my personal projects with ray tracing with `C++` and am open to opensource projects!
+- 👨🏻‍💻 My related coursework includes: `Intro CS`, `Multivariable Calculus`, `Honors Calculus`, `Linear Algebra`, `Systems Programming`
+- 💬 Ping me about **AI**, **Hackathons**, **Computer Science Research**, **Software Engineerng**.
 
 </div>
 
