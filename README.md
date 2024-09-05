@@ -10,7 +10,7 @@
 
 <div style="font-size: 3.0em;">
 
-- 🔭 My latest professional experience involved `blockchain`, `CUDA`, and `cryptography` projects @ [ASTRI](https://www.astri.org/) (check out myh FAHE repo for more)
+- 🔭 My latest professional experience involved `blockchain`, `CUDA`, and `cryptography` projects @ [ASTRI](https://www.astri.org/) (check out my FAHE repo for more)
 - 🌱 I’m currently interested learning about system architecture in `C`.
 - 👯 I’m looking to expand my network and find Summer 2025 opportunities in software engineering.
 - 🤔 I’m looking to work on my personal projects with ray tracing with `C++` and am open to opensource projects!
