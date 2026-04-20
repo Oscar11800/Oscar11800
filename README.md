@@ -4,7 +4,7 @@ CS student at UChicago.
 
 ## Now
 
-- Building voice agents for consumer
+- Building voice and web agents
 - Creating scalable automated workflows
 - Looking for Summer 2026 SWE, PM, and research opportunities in tech
 
